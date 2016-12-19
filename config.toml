@@ -1,3 +1,12 @@
 baseurl = "http://donvince.com/"
-title = "Don Vince"
+title = "Idea Gallery"
 languageCode = "en-gb"
+theme = "paperback"
+
+[params]
+AuthorName = "Don Vince"
+Tagline = "my online notebook"
+
+SocialLinks = true
+GithubUsername = "donvince"
+TwitterUsername = "donaldvince"
