@@ -48,11 +48,4 @@ we copy that and put it in the process so that everyone else can do the same?
 This bell curve process based view of the world is brought to us thanks to Mr 
 Statistical Process Control: [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming).
 
-Here's a delicious complementary quote uncle Steven shared with me:
-
-> "Any fool can criticize, complain, and condemn — and most fools do. But it 
-> takes character and self-control to be understanding and forgiving."
->
-> [Dale Carnegie, How to Win Friends and Influence People](https://www.goodreads.com/quotes/20907)
-
 Now go, fix the process!
